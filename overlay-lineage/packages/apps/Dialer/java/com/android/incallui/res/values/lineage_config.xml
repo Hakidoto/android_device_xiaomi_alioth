@@ -17,4 +17,7 @@
 <resources>
   <!-- Whether to check that the proximity is unblocked before showing the incoming call UI. -->
   <bool name="config_answer_proximity_sensor_enabled">false</bool>
+
+    <!-- Whether to show Smooth Display feature in Settings Options -->
+    <bool name="config_show_smooth_display">true</bool>
 </resources>
