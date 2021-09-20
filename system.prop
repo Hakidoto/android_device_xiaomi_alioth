@@ -4,4 +4,4 @@ persist.vendor.cp.fcc_main_ua=400000
 persist.vendor.cp.qc3p5_vfloat_offset_uv=110000
 
 # Display
-qemu.sf.lcd_density=420 
+qemu.sf.lcd_density=440 
