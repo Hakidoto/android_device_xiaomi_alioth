@@ -5,3 +5,6 @@ persist.vendor.cp.qc3p5_vfloat_offset_uv=110000
 
 # Display
 qemu.sf.lcd_density=395 
+
+# Bluetooth
+ro.bluetooth.library_name=libbluetooth_qti.so
