@@ -518,5 +518,10 @@
         <item>1080</item>
         <item>965</item>
         <item>115</item>
-    </array>    
+    </array>
+
+    <!-- Display has physical cutout -->
+    <bool name="config_physicalDisplayCutout">true</bool>
+    
+        
 </resources>
