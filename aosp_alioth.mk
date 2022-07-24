@@ -12,7 +12,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 WITH_GAPPS := true
 TARGET_INCLUDE_WIFI_EXT := true
-TARGET_BOOT_ANIMATION_RES := 1440
+TARGET_BOOT_ANIMATION_RES := 1080
 
 # PixelPlusUI Maintainer Flags
 PPUI_MAINTAINER := EmanuelCN
